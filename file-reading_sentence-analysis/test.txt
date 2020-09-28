@@ -1,0 +1,4 @@
+This is a sentence.
+This is another sentence.
+Does this count as a sentence?
+I think, yes, it does.
